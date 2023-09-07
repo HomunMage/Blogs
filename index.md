@@ -1,9 +1,7 @@
 ---
 layout: default
-redirect_from:
-  - /ai/
 ---
-# <img src="./index.png" width="32px" height="32px"><a href="/AI/">AI魔法師公會</a><img src="./index.png" width="32px" height="32px">
+# <img src="./index.png" width="32px" height="32px"><a href="/">AI魔法師公會</a><img src="./index.png" width="32px" height="32px">
 
 不定期分享AI的各種想法，包含
 * 聊AI做遊戲 用AI繪圖 寫程式 作曲 寫劇本
