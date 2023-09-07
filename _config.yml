@@ -23,8 +23,7 @@ author: AIMageGuild
 email: aimageguild@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    AI魔法師公會
-baseurl: "/AI/" # the subpath of your site, e.g. /blog
-url: "https://wiki.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ai.posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 site_favicon: favicon.ico
 
