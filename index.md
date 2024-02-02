@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: board
 ---
 # <img src="./index.png" width="32px" height="32px"><a href="/">AI魔法師公會</a><img src="./index.png" width="32px" height="32px">
 
