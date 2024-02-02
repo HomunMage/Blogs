@@ -4,5 +4,6 @@ _site
 .jekyll-metadata
 vendor
 /.vs
+Gemfile.lock
 
 *.png
