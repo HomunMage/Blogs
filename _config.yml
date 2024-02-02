@@ -18,38 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AIMageGuild
-author: AIMageGuild
+title: AI-Mage
 email: aimageguild@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-   AI魔法師公會
+
 url: "https://ai.posetmage.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Boards" # the subpath of your site, e.g. /blog
+
+repository: aimageguild/Boards
 
 site_favicon: favicon.ico
+includes_dir: _shared/_includes
+layouts_dir: _shared/_layouts
 
-social:
-  - platform: envelope
-    url: mailto:aimageguild@gmail.com
-  - platform: twitter
-    url: https://twitter.com/aimageguild
-  - platform: youtube
-    url: https://youtube.com/@aimageguild
-  - platform: tiktok
-    url: https://www.tiktok.com/@aimageguild
-  - platform: telegram
-    url: https://t.me/aimageguild
-  - platform: facebook
-    url: https://www.facebook.com/groups/AI.Mage.Guild
+
+site_favicon: favicon.ico
+includes_dir: _shared/_includes
+layouts_dir: _shared/_layouts
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
 
 plugins:
   - jekyll-external-links
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-category-pages
   - jekyll-remote-theme
-
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

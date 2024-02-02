@@ -1,8 +1,9 @@
 ---
-layout: default
+title: 🎯練兵場
+
+layout: board
 ---
 
-# 🎯練兵場
 
 ## 看版分類
 * <img src="https://posetmage.com/Images/AIMage/LOGO.png" width="16px" height="16px" style="border-radius:45%;">AI魔法師公會<img src="https://posetmage.com/Images/AIMage/LOGO.png" width="16px" height="16px" style="border-radius:45%;">｜首頁
