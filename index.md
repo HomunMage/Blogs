@@ -12,8 +12,3 @@ layout: board
 
 請先至[🎯練兵場](./Training.md)理解看版分類
 
-<a href="./feed.xml">
-    <svg class="svg-icon orange">
-    <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-    </svg><span>Subscribe</span>
-</a>
