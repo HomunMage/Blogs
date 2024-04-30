@@ -1,14 +1,18 @@
----
-layout: board
----
 
-歡迎來到AI魔法師公會，這邊會不定期分享AI的各種想法，包含
-* 聊AI做遊戲 用AI繪圖 寫程式 作曲 寫劇本
-* 聊AI硬體/SDK ex: RTX卡的tensorcore、DLSS
-* 聊AI演算法 ex:regulaization、logistic regression
-* 聊AI軟體 ex:ChatGPT, copilot, Stable Diffusion
-* 聊AI思維 ex:Alphago先點三三, AI打撲克GTO, exploit
-* 後AI時代的商業模式、一人團隊
+Welcome to the HomuMage Boards!
 
-請先至[🎯練兵場](./Training.md)理解看版分類
+Sharing various AI-related ideas and topics, including:
 
+* AI in creative fields: Using AI to play games, generate art, write code, compose music, and write scripts.
+* AI hardware and SDKs: Discussions on AI-related hardware and software development kits, such as NVIDIA's RTX cards with Tensor Cores and DLSS.
+* AI algorithms: Exploring various AI algorithms, including regularization, logistic regression, and more.
+* AI software: ChatGPT, Copilot, Stable Diffusion, and other AI-powered tools.
+* AI strategy and thinking: AlphaGo's opening moves, AI poker strategies, exploiting AI weaknesses, and more.
+* Business models in the post-AI era: How AI is changing the business landscape, and the rise of solo entrepreneurship.
+
+Please head to the [🎯Barracks](./Barracks) to understand our categorization system.
+
+
+<br>
+
+{%- include myrss.html -%}

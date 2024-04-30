@@ -1,5 +1,5 @@
 ---
-layout: board
+
 title:  "Prompt Engineer"
 date:   2023-03-30 10:00:00 +0800
 categories: [Text]

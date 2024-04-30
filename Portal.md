@@ -1,7 +1,7 @@
 ---
 title: 🌀傳送卷軸
 
-layout: board
+
 ---
 
 <head>
