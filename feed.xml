@@ -10,8 +10,6 @@ layout: null
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}</id>
   
-  <logo>/index.png</logo>
-
   {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
   {% for page in sorted_pages limit:10 %}
   <entry>
