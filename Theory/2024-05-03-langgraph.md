@@ -1,7 +1,7 @@
 ---
 title:  "LangGraph and LATS"
 date:   2024-05-03 10:00:00 +0800
-categories: [Elf]
+categories: [Theory]
 ---
 
 # LangGraph and LATS
