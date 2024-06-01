@@ -12,7 +12,7 @@ cd ../
 
 git config --local user.name "HomunMage"
 git config --local user.email "Homun@posetmage.com"
-git remote set-url origin git@HO:HomunMage/Boards.git
+git remote set-url origin git@HO:HomunMage/Blogs.git
 
 git submodule update --recursive --remote
 
