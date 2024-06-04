@@ -1,12 +1,9 @@
 ---
 title: 🎯Barracks
-
-
 ---
 
 
 ## Categories
-* <img src="https://posetmage.com/Images/AIMage/LOGO.png" width="16px" height="16px" style="border-radius:45%;">AI-Mage Guild<img src="https://posetmage.com/Images/AIMage/LOGO.png" width="16px" height="16px" style="border-radius:45%;">｜Home
 * 🗿 Seven Pillars ｜ Featured Collection
 * 🎯 Barracks ｜ Category Board
 * 🍺 Adventurer's Inn ｜ Unclassified Posts
