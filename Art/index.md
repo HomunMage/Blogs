@@ -1,9 +1,9 @@
 ---
-title: 🎨視覺魔法
+title: 🎨Visual Magic
 
 layout: classes
 category: Art
 ---
 
 
-影片、圖片AI相關想法
+Video and Image AI-related Ideas
