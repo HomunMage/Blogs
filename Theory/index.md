@@ -1,9 +1,8 @@
 ---
-title: 🧪魔法概論
+title: 🧪Magic Theory
 
 layout: classes
 category: Theory
 ---
 
-AI相關理論，paper或article
-
+Concepts such Software Engineering, Artificial Intelligence

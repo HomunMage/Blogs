@@ -1,10 +1,9 @@
 ---
-title: 📝文字魔法
+title: 📝Text Spell
 
 layout: classes
 category: Text
 ---
 
 
-文字AI相關討比如劇本、台詞、占卜、程式碼、翻譯
-
+Discussions related to text, such as scripts, dialogues, divination, code, and translation.

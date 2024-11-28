@@ -24,7 +24,7 @@ url: https://homun.posetmage.com/ # the base hostname & protocol for your site, 
 
 description: Blogs
 baseurl: /Blogs # the subpath of your site, e.g. /blog
-repository: aimageguild/Blogs
+repository: homunmage/Blogs
 
 defaults:
   -

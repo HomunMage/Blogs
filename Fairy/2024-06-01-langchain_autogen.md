@@ -1,7 +1,7 @@
 ---
 title:  "LangChain vs. AutoGen"
 date:   2024-06-01 10:00:00 +0800
-categories: [Elf]
+categories: [Fairy]
 ---
 
 ### Overview: LangChain vs. AutoGen

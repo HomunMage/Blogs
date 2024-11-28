@@ -1,7 +1,7 @@
 ---
 title:  "AI workflow"
 date:   2024-04-30 10:00:00 +0800
-categories: [Elf]
+categories: [Fairy]
 ---
 
 # AI workflow on local PC 
