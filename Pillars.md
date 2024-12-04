@@ -1,6 +1,6 @@
 
 
-<h1> 🗿七大列強 </h1>
+<h1> 🗿七大列強(ななだいれっきょう) </h1>
 
 精選輯
 
@@ -14,12 +14,12 @@
 
 ## 🥇Gold
 如果在面對AI時代只推薦一部影片，我只推薦這部：  
-[ChatGPT给的机会, 你能抓住吗?](https://www.youtube.com/watch?v=KoT08Kno10A)  
-<iframe width="450" height="255" src="https://www.youtube.com/embed/KoT08Kno10A" title="YouTube video player" frameborder="0" ></iframe>
+[用AI給人生開掛的正確方式: AI比人进化快的时代，學什麼才不落伍?](https://www.youtube.com/watch?v=b8Bx2oNJWlI)
+<iframe width="450" height="255" src="https://www.youtube.com/embed/b8Bx2oNJWlI" title="YouTube video player" frameborder="0" ></iframe>
 
 ## 🥈Silver
-推薦一個創業家yt [築夢家 - Dreams Bloomer](https://www.youtube.com/@dreamsbloomer/streams ) 他目前的公司在轉型商業模式中 同時也是積極接觸新科技 ex: AIOT, MR, ....  
-直播講的內容蠻深的 建議直播都看看 (從最新的開始往回看就好 因為他的想法一直更新 舊影片沒那麼重要)  
+[ChatGPT给的机会, 你能抓住吗?](https://www.youtube.com/watch?v=KoT08Kno10A)  
+<iframe width="450" height="255" src="https://www.youtube.com/embed/KoT08Kno10A" title="YouTube video player" frameborder="0" ></iframe>
 
 ## 🥉Bronze
 (從缺)

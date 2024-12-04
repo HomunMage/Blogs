@@ -4,5 +4,29 @@ category1:
 category2:
   describe: "Description for category 2"
 
+Pillars :
+  describe: "Featured Collection"
+Barracks :
+  describe: "Category Board"
 Tavern:
-  describe: "Misc, murmur"
+  describe: "Misc, murmur. Unclassified Posts"
+Magic Theory :
+  describe: "Concepts such Software Engineering, Artificial Intelligence"
+Physical Holy Staff :
+  describe: "AI-related Hardware or SDK Discussions, e.g., Chips, CUDA"
+Visual Magic :
+  describe: "Video and Image AI-related Ideas"
+Text Magic :
+  describe: "Discussions related to text, such as scripts, dialogues, divination, code, and translation."
+Sound Magic :
+  describe: "Music and Sound Effect AI-related"
+Multiple Casting :
+  describe: "Hybrid AI, e.g., Video-Image-Text AI"
+Fairy Summoning :
+  describe: "AI Assistant and Tool Series"
+Alchemy :
+  describe: "Applying AI to Business-related Fields"
+Devil's Contract :
+  describe: "Using AI for Unethical Purposes"
+Cthulhu's Call :
+  describe: "AI's Thought Process, e.g., Playing Cards or Chess"
